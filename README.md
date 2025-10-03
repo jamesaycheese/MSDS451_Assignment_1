@@ -48,8 +48,8 @@ weighted avg   0.976     0.976     0.976      2494
 Confusion Matrix and ROC curve are available in the `figures/` directory.
 
 ## Repository Structure
-├── data/             # Raw AAPL historical price data
-├── figures/          # Confusion matrix, ROC curve, and feature importance plots
-├── notebooks/        # Jupyter Notebook with code and analysis
-├── MSDS_451_JKWOK_v2.pdf  # Technical report (LaTeX generated)
-└── README.md         # Project documentation
+├── data/                     # Raw AAPL historical price data
+├── figures/                  # Confusion matrix, ROC curve, feature importance plots
+├── notebooks/                # Jupyter Notebook with code and analysis
+├── MSDS_451_JKWOK_v2.pdf     # Final technical report in PDF
+└── README.md                 # Project documentation
