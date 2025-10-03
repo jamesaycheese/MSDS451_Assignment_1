@@ -43,3 +43,13 @@ Classification report:
 accuracy                          0.976      2494
 macro avg      0.975     0.976     0.975      2494
 weighted avg   0.976     0.976     0.976      2494
+
+├── data/                     # Raw AAPL historical price data
+├── figures/                  # Confusion matrix, ROC curve, feature importance plots
+├── notebooks/                # Jupyter Notebook with code and analysis
+├── MSDS_451_JKWOK_v2.pdf     # Final technical report in PDF
+└── README.md                 # Project documentation
+
+
+
+
